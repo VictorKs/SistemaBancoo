@@ -1,0 +1,6 @@
+c:\users\victo\documents\visual studio 2015\Projects\Bancoo\Bancoo\bin\Debug\Bancoo.exe.config
+c:\users\victo\documents\visual studio 2015\Projects\Bancoo\Bancoo\obj\Debug\Bancoo.csprojResolveAssemblyReference.cache
+c:\users\victo\documents\visual studio 2015\Projects\Bancoo\Bancoo\bin\Debug\Bancoo.exe
+c:\users\victo\documents\visual studio 2015\Projects\Bancoo\Bancoo\bin\Debug\Bancoo.pdb
+c:\users\victo\documents\visual studio 2015\Projects\Bancoo\Bancoo\obj\Debug\Bancoo.exe
+c:\users\victo\documents\visual studio 2015\Projects\Bancoo\Bancoo\obj\Debug\Bancoo.pdb
